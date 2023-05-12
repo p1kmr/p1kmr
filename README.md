@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/p1kmr_" target="blank"><img src="https://img.shields.io/twitter/follow/p1kmr_?logo=twitter&style=for-the-badge" alt="p1kmr_" /></a> </p>
 
-- 🔭 I’m currently working on **React projects.**
+<!-- - 🔭 I’m currently working on **React projects.** -->
 
 - 🌱 Currently looking for organization to work with.
 - 💬 Ask me about **React.js, Next.js, TypeScript, Context API, React Query, Material-UI.**
