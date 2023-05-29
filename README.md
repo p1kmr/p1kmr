@@ -8,7 +8,7 @@
 <!-- - 🔭 I’m currently working on **React projects.** -->
 
 - 🌱 Currently looking for organization to work with.
-- 💬 Ask me about **React.js, Next.js, TypeScript, Context API, React Query, Material-UI.**
+- 💬 Ask me about **Java, Spring MVC, React.js, Next.js, TypeScript, Context API, React Query, Material-UI.**
 - 👨‍💻 Portfolio : [https://portfolio-web-moqq.vercel.app/](https://portfolio-web-moqq.vercel.app/)
 - 📌 LinkedIn [https://www.linkedin.com/in/pawan-kmr-0b6291242/](https://www.linkedin.com/in/pawan-kmr-0b6291242/)
 - 📫 How to reach me **kmrpawan320@gmail.com**
